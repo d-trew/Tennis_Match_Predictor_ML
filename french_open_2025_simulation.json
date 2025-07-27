@@ -1,0 +1,183 @@
+{
+  "R128": [
+    {
+      "round": "R128",
+      "player1": {
+        "id": "novak_djokovic",
+        "name": "Novak Djokovic",
+        "seed": 1
+      },
+      "player2": {
+        "id": "carlos_alcaraz",
+        "name": "Carlos Alcaraz",
+        "seed": 3
+      },
+      "winner": {
+        "id": "novak_djokovic",
+        "name": "Novak Djokovic",
+        "seed": 1
+      },
+      "loser": {
+        "id": "carlos_alcaraz",
+        "name": "Carlos Alcaraz",
+        "seed": 3
+      },
+      "probability": 0.5,
+      "confidence": 0.5
+    },
+    {
+      "round": "R128",
+      "player1": {
+        "id": "rafael_nadal",
+        "name": "Rafael Nadal",
+        "seed": "WC"
+      },
+      "player2": {
+        "id": "alexander_zverev",
+        "name": "Alexander Zverev",
+        "seed": 4
+      },
+      "winner": {
+        "id": "rafael_nadal",
+        "name": "Rafael Nadal",
+        "seed": "WC"
+      },
+      "loser": {
+        "id": "alexander_zverev",
+        "name": "Alexander Zverev",
+        "seed": 4
+      },
+      "probability": 0.5,
+      "confidence": 0.5
+    },
+    {
+      "round": "R128",
+      "player1": {
+        "id": "stefanos_tsitsipas",
+        "name": "Stefanos Tsitsipas",
+        "seed": 5
+      },
+      "player2": {
+        "id": "casper_ruud",
+        "name": "Casper Ruud",
+        "seed": 7
+      },
+      "winner": {
+        "id": "stefanos_tsitsipas",
+        "name": "Stefanos Tsitsipas",
+        "seed": 5
+      },
+      "loser": {
+        "id": "casper_ruud",
+        "name": "Casper Ruud",
+        "seed": 7
+      },
+      "probability": 0.5,
+      "confidence": 0.5
+    },
+    {
+      "round": "R128",
+      "player1": {
+        "id": "andrey_rublev",
+        "name": "Andrey Rublev",
+        "seed": 6
+      },
+      "player2": {
+        "id": "grigor_dimitrov",
+        "name": "Grigor Dimitrov",
+        "seed": 10
+      },
+      "winner": {
+        "id": "andrey_rublev",
+        "name": "Andrey Rublev",
+        "seed": 6
+      },
+      "loser": {
+        "id": "grigor_dimitrov",
+        "name": "Grigor Dimitrov",
+        "seed": 10
+      },
+      "probability": 0.5,
+      "confidence": 0.5
+    }
+  ],
+  "R64": [
+    {
+      "round": "R64",
+      "player1": {
+        "id": "novak_djokovic",
+        "name": "Novak Djokovic",
+        "seed": 1
+      },
+      "player2": {
+        "id": "rafael_nadal",
+        "name": "Rafael Nadal",
+        "seed": "WC"
+      },
+      "winner": {
+        "id": "novak_djokovic",
+        "name": "Novak Djokovic",
+        "seed": 1
+      },
+      "loser": {
+        "id": "rafael_nadal",
+        "name": "Rafael Nadal",
+        "seed": "WC"
+      },
+      "probability": 0.5,
+      "confidence": 0.5
+    },
+    {
+      "round": "R64",
+      "player1": {
+        "id": "stefanos_tsitsipas",
+        "name": "Stefanos Tsitsipas",
+        "seed": 5
+      },
+      "player2": {
+        "id": "andrey_rublev",
+        "name": "Andrey Rublev",
+        "seed": 6
+      },
+      "winner": {
+        "id": "stefanos_tsitsipas",
+        "name": "Stefanos Tsitsipas",
+        "seed": 5
+      },
+      "loser": {
+        "id": "andrey_rublev",
+        "name": "Andrey Rublev",
+        "seed": 6
+      },
+      "probability": 0.5,
+      "confidence": 0.5
+    }
+  ],
+  "R32": [
+    {
+      "round": "R32",
+      "player1": {
+        "id": "novak_djokovic",
+        "name": "Novak Djokovic",
+        "seed": 1
+      },
+      "player2": {
+        "id": "stefanos_tsitsipas",
+        "name": "Stefanos Tsitsipas",
+        "seed": 5
+      },
+      "winner": {
+        "id": "novak_djokovic",
+        "name": "Novak Djokovic",
+        "seed": 1
+      },
+      "loser": {
+        "id": "stefanos_tsitsipas",
+        "name": "Stefanos Tsitsipas",
+        "seed": 5
+      },
+      "probability": 0.5,
+      "confidence": 0.5
+    }
+  ]
+}
